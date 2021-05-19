@@ -1,4 +1,4 @@
-Suscoin Core integration/staging tree
+Suscoin
 =====================================
 
 https://suscoin.org (it doesn't work yet)
@@ -7,6 +7,7 @@ What is Suscoin?
 ----------------
 
 Suscoin is an digital currency that is sus, no further explanation needed.
+(It's also litecoin fork)
 
 Check out website: [https://suscoin.org] (it doesn't work yet).
 
