@@ -7,7 +7,7 @@ What is Suscoin?
 ----------------
 
 Suscoin is an digital currency that is sus, no further explanation needed.
-(It's also litecoin fork)
+It's also a litecoin fork
 
 Check out website: [https://suscoin.org] (it doesn't work yet).
 
