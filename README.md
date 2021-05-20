@@ -1,4 +1,4 @@
-Suscoin
+Suscoin [SUS, Ŝ]
 =====================================
 
 https://suscoin.org (it doesn't work yet)
