@@ -27,4 +27,6 @@ RUN make
 RUN make install
 #open service port
 EXPOSE 9696 19696
+
+RUN cd src
 CMD ["./suscoin", "--printtoconsole"]
