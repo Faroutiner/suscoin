@@ -29,4 +29,4 @@ RUN make install
 EXPOSE 9696 19696
 
 RUN cd src
-CMD ["./suscoin", "--printtoconsole"]
+CMD ["suscoin", "--printtoconsole"]
