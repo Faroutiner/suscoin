@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:16.04
 
 # Fix to docker being stuck at selecting timezone 
 ENV TZ=Europe/London
