@@ -1,4 +1,9 @@
 FROM ubuntu:20.04
+
+# Fix to docker being stuck at selecting timezone 
+ENV TZ=	Europe/London
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
 COPY ./suscoin.conf /root/.suscoin/suscoin.conf
 COPY . /suscoin
 WORKDIR /suscoin
