@@ -28,7 +28,5 @@ RUN make install
 #open service port
 EXPOSE 9696 19696
 
-RUN pwd
-RUN ls
-RUN cd src
-CMD ["cd", "src", "&&", "suscoin", "--printtoconsole"]
+WORKDIR /suscoin/src
+CMD ["suscoin", "--printtoconsole"]
